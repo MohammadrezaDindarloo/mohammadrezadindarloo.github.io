@@ -17,8 +17,19 @@ Hey! My name is Mohamamdreza I've recently finished my Master’s degree in Cont
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
-From September 2019 to present, I have been a robotic reasercher in [ARAS](https://aras.kntu.ac.ir/) (Applied Robotics and AI Solutions) laboratory under the supervision of *[Prof. Hamid Taghirad]*(https://aras.kntu.ac.ir/taghirad/).
+From September 2019 to present, I have been a robotic reasercher in [ARAS](https://aras.kntu.ac.ir/) (Applied Robotics and AI Solutions) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/).
 <h5> <i></i> A breif on my educations </h5>
+M.SC. iN ELECTRiCAL ENGiNEERiNG at [K. N. Toosi University of Technology](https://en.kntu.ac.ir/) 
+Thesis: Development of a Graph‐Based Unified Optimization framework for Robot Calibration and State Estimation
+Advisor: [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/)
+Co‐Advisor: [Prof. Philippe Cardou](https://robot.gmc.ulaval.ca/en/members/current-members/philippe-cardou/)
+GPA: 3.88/4.0
+
+B.SC. iN ELECTRiCAL ENGiNEERiNG at [K. N. Toosi University of Technology](https://en.kntu.ac.ir/) 
+Final Project: Design and Implementation of a Comprehensive Data Acquisition System(DAQ) for Real‐Time Applications in ARASH:ASiST Eye
+Surgery Training Robot
+Advisor: [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/)
+GPA: 3.52/4.0
 
 </div>
 </div>
