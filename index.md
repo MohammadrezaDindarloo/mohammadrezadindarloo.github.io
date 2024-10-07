@@ -18,7 +18,7 @@ Hey! My name is Mohamamdreza I've recently finished my Master’s degree in Cont
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 From September 2019 to present, I have been a robotic reasercher in [ARAS](https://aras.kntu.ac.ir/) (Applied Robotics and AI Solutions) laboratory under the supervision of *[Prof. Hamid Taghirad]*(https://aras.kntu.ac.ir/taghirad/).
-<h3> <i></i> A breif on my educations </h3>
+<h1> <i></i> A breif on my educations </h3>
 
 </div>
 </div>
