@@ -17,7 +17,7 @@ Hey! My name is Mohamamdreza I've recently finished my Master’s degree in Cont
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
-From August 2020 to July 2021, I was a postdoctoral research associate in the [Robust Robotics Group](http://groups.csail.mit.edu/rrg/) with Prof. Nicholas Roy at MIT CSAIL.
+From September 2019 to present, I have been a robotic reasercher in [ARAS](https://aras.kntu.ac.ir/) laboratory (ARAS (Applied Robotics and AI Solutions) under the supervision of [Prof. Hamid Taghirad](https://aras.kntu.ac.ir/taghirad/).
 I did my doctoral work in the [STARS Lab](http://www.starslab.ca) (Space & Terrestrial Autonomous Robotic Systems) under the supervision of *Prof. Jonathan Kelly*. My [<i class="fa fa-file-text" aria-hidden="true"></i> Ph.D. dissertation](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf) was entitled *Learned Improvements to the Visual Egomotion Pipeline*.  
 </div>
 </div>
