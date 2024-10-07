@@ -11,8 +11,8 @@ subtitle: Fan of Robots & Humans
 <img class='site-profile' src="/assets/img/valentin_peretroukhin_cambridge.jpg">
 </div>
 <div class="unit golden-large">
-<div class="lead lead-about">
-Hey! My name is Valentin. I'm a computational research scientist at [Structura Biotechnology](https://structura.bio/) working on improving algorithms that underlie [cryo-EM](https://www.nature.com/articles/d41586-020-00341-9).
+<div class="lead lead-about">  
+Hey! My name is Mohamamdreza I've recently finished my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/) working on optimization problems in robotic such as state estimation, calibration, and sensor fusion in robotic.
 
 </div>
 
