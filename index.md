@@ -8,7 +8,7 @@ subtitle: Fan of Robots & Humans
 <div class="pretty-links">
 <div class="grid">
 <div class="unit golden-small profile-pic">
-<img class='site-profile' src="/assets/img/valentin_peretroukhin_cambridge.jpg">
+<img class='site-profile' src="/assets/img/MohammadrezaDindarloo_mainpage.jpg">
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">  
