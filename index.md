@@ -12,23 +12,30 @@ subtitle: Fan of Robots & Humans
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">  
-Hey! My name is Mohamamdreza I've recently finished my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/) working on optimization problems in robotic such as state estimation, calibration, and sensor fusion in robotic.
+Hey! My name is Mohamamdreza, I've recently finished my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/) working on optimization problems in robotic such as state estimation, calibration, and sensor fusion in robotic.
 
 </div>
 
 <!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 From September 2019 to present, I have been a robotic reasercher in [ARAS](https://aras.kntu.ac.ir/) (Applied Robotics and AI Solutions) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/).
 <h5> <i></i> A breif on my educations </h5>
-M.SC. iN ELECTRiCAL ENGiNEERiNG at [K. N. Toosi University of Technology](https://en.kntu.ac.ir/) 
+M.SC. iN ELECTRiCAL ENGiNEERiNG at [KNTU](https://en.kntu.ac.ir/) 
+</div>
 Thesis: Development of a Graph‐Based Unified Optimization framework for Robot Calibration and State Estimation
+</div>
 Advisor: [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/)
 Co‐Advisor: [Prof. Philippe Cardou](https://robot.gmc.ulaval.ca/en/members/current-members/philippe-cardou/)
+</div>
 GPA: 3.88/4.0
-
-B.SC. iN ELECTRiCAL ENGiNEERiNG at [K. N. Toosi University of Technology](https://en.kntu.ac.ir/) 
+</div>
+</div>
+B.SC. iN ELECTRiCAL ENGiNEERiNG at [KNTU](https://en.kntu.ac.ir/) 
+</div>
 Final Project: Design and Implementation of a Comprehensive Data Acquisition System(DAQ) for Real‐Time Applications in ARASH:ASiST Eye
 Surgery Training Robot
+</div>
 Advisor: [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/)
+</div>
 GPA: 3.52/4.0
 
 </div>
