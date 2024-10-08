@@ -104,9 +104,9 @@ Recently...
   <div class="grid no-gutters">
     <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="https://github.com/utiasSTARS/sun-bcnn"><i class="fa fa-github" aria-hidden="true"></i> Sun-BCNN</a></h4>
-        <img src='/assets/img/projects/sun-bcnn.png' class='project-img'>
-        <p>Sun-BCNN (Bayesian Convolutional Neural Network) infers the full 3D sun direction from single RGB images (which can then be used to improve localization).</p>
+        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/Diamond_Optimization"><i class="fab fa-github" aria-hidden="true"></i> DIAMOND: surgical robot calibration</a></h4>
+        <img src='/assets/img/projects/Diamond Calibration.png' class='project-img'>
+        <p>DIAMOND is an eye surgery robot that employs a parallel spherical mechanism to create a Remote Center of Motion (RCM), facilitating minimally invasive surgery (MIS). In this project, we propose a relative pose measurement method to calibrate the robot effectively. This work is currently published in the <a href="https://icrom.ir/">ICRoM 2023 Conference </a> as a <a href="https://drive.google.com/file/d/16XSf1F3mS0mPCfROK8nvF5mItJ2i3YPB/view"><i class="fa fa-file-text" aria-hidden="true"></i> oral presentation paper</a>.</p>
       </div>
     </div>
   <div class="unit half">
