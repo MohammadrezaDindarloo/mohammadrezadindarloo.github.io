@@ -38,6 +38,14 @@ subtitle: Fan of Robots & Humans
       <strong>Years:</strong> 2021 - 2024 <br>
       <strong>Thesis:</strong> Development of a Graph-Based Unified Optimization Framework for Robot Calibration and State Estimation
     </p>
+
+    <h5><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h5>
+    <p>
+      <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
+      <strong>Years:</strong> 2017 - 2021 <br>
+      <strong>Final Project:</strong> Design and Implementation of a Comprehensive Data Acquisition System (DAQ) for Real-Time Applications in ARASH:ASiST Eye Surgery Training Robot
+    </p>
+
   </div>
 
 
@@ -54,14 +62,7 @@ subtitle: Fan of Robots & Humans
 
 
 
-  <div class="unit golden-large news">
-    <h5><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h5>
-    <p>
-      <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
-      <strong>Years:</strong> 2017 - 2021 <br>
-      <strong>Final Project:</strong> Design and Implementation of a Comprehensive Data Acquisition System (DAQ) for Real-Time Applications in ARASH:ASiST Eye Surgery Training Robot
-    </p>
-  </div>
+
 
 
 
