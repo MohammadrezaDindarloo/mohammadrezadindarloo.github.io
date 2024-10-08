@@ -13,12 +13,15 @@ subtitle: Fan of Robots & Humans
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">  
-Hey! My name is Mohamamdreza, I've recently finished my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/) working on optimization problems in robotic such as state estimation, calibration, and sensor fusion in robotic.
+  Hello! My name is Mohammadreza Dindarloo, and I have recently completed my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/). My research primarily focuses on optimization problems in robotics, including state estimation, calibration, and sensor fusion.
+
 
 </div>
 
-From September 2019 to present, I have been a robotic reasercher in [ARAS](https://aras.kntu.ac.ir/) (Applied Robotics and AI Solutions) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/). At ARAS. I enjoed of working on surgical robots and cable robots on developing surgical robot
-
+  <p>
+    Since September 2019, I have been a research associate at the [ARAS (Applied Robotics and AI Solutions)](https://aras.kntu.ac.ir/) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/). My work at ARAS has concentrated on the development of surgical and cable-driven robotic systems, with a particular emphasis on embedded systems, robotic control, and advanced optimization techniques.
+  </p>
+  
 </div>
 </div>
 </div>
@@ -31,7 +34,7 @@ From September 2019 to present, I have been a robotic reasercher in [ARAS](https
   <h3> <i class="fa fa-id-card"></i> A bit more about me </h3>
   I love reading poetry, philosophy and literature (especially *Weil, Chesterton, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, tennis, and basketball*), hiking & portaging, and all things general aviation (I received my Canadian private pilot's license in 2018).
   </div>
-  
+
   <h5> <i class="fa fa-graduation-cap"></i> Education Summary </h5>
   
   <div class="unit golden-large news">
