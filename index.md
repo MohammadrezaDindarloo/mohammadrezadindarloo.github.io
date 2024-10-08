@@ -29,7 +29,7 @@ From September 2019 to present, I have been a robotic reasercher in [ARAS](https
   <h5> <i class="fa fa-graduation-cap"></i> Education Summary </h5>
   
   <div class="unit golden-large news">
-    <h4><i class="fa fa-university"></i> M.Sc. in Control Engineering</h4>
+    <h6><i class="fa fa-university"></i> M.Sc. in Control Engineering</h6>
     <p>
       <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
       <strong>Years:</strong> 2021 - 2024 <br>
@@ -38,7 +38,7 @@ From September 2019 to present, I have been a robotic reasercher in [ARAS](https
   </div>
 
   <div class="unit golden-large news">
-    <h4><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h4>
+    <h6><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h6>
     <p>
       <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
       <strong>Years:</strong> 2017 - 2021 <br>
@@ -48,29 +48,12 @@ From September 2019 to present, I have been a robotic reasercher in [ARAS](https
 </div>
 {:/}
 
+<div class="unit golden-small about">
 
-<!-- 
-<div class="grid news-about">
-  <h5> <i class="fa fa-graduation-cap"></i> Education Summary </h5>
-  
-  <div class="unit golden-large news">
-    <h4><i class="fa fa-university"></i> M.Sc. in Control Engineering</h4>
-    <p>
-      <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
-      <strong>Years:</strong> 2021 - 2024 <br>
-      <strong>Thesis:</strong> Development of a Graph-Based Unified Optimization Framework for Robot Calibration and State Estimation
-    </p>
-  </div>
+<h3> <i class="fa fa-id-card"></i> A bit more about me </h3>
 
-  <div class="unit golden-large news">
-    <h4><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h4>
-    <p>
-      <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
-      <strong>Years:</strong> 2017 - 2021 <br>
-      <strong>Final Project:</strong> Design and Implementation of a Comprehensive Data Acquisition System (DAQ) for Real-Time Applications in ARASH:ASiST Eye Surgery Training Robot
-    </p>
-  </div>
-</div> -->
+I love reading poetry, philosophy and literature (especially *Weil, Chesterton, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, tennis, and basketball*), hiking & portaging, and all things general aviation (I received my Canadian private pilot's license in 2018).
+</div>
 
 
 
@@ -93,13 +76,7 @@ Recently...
 * my RSS work titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty*  was awarded the [<i class="fa fa-trophy" aria-hidden="true"></i> Best Student Paper](https://roboticsconference.org/program/awards/) award, thank you to my incredible co-authors; ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0))
 </div>
 
-<div class="unit golden-small about">
 
-
-<h3> <i class="fa fa-id-card"></i> A bit more about me </h3>
-
-I love reading poetry, philosophy and literature (especially *Weil, Chesterton, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, tennis, and basketball*), hiking & portaging, and all things general aviation (I received my Canadian private pilot's license in 2018).
-</div>
 </div>
 
 ## Research Highlights
