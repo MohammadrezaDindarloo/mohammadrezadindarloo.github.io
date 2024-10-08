@@ -93,7 +93,7 @@ Recently...
       <div class="unit half">
         <div class="project">
           <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/Arastronaut"><i class="fab fa-github" aria-hidden="true"></i> ARAStronaut</a></h4>
-          <img src='ARAStronaut.png' class='project-img'>
+          <img src='/assets/img/projects/ARAStronaut.png' class='project-img'>
           <p>This project focuses on developing a custom module for collecting and visualizing Ultra-Wideband IMU and gyroscope data from an ESP32 microcontroller, utilizing Python, C++, and Node.js. The system features integrated data acquisition, calibration, and real-time plotting capabilities, facilitating efficient analysis of sensor data. Both the hardware and software components are available as an open-source project.
         </div>
       </div>
