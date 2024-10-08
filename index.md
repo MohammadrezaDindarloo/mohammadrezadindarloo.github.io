@@ -36,7 +36,7 @@ subtitle: Fan of Robots & Humans
   
   <p><strong>Research Interests:</strong> I focus on Sensor Fusion, Multi-Agent Systems, Medical Robotics, and leveraging machine learning to enhance robotic applications.</p>
   
-  <p><strong>Hobbies & Passions:</strong> Outside of research, I enjoy climbing, playing football, and performing classical music.</p>
+<p><strong>Hobbies & Passions:</strong> Beyond my research, I enjoy climbing, playing football, performing classical music, and exploring historical sites to learn about different cultures.</p>
 </div>
 
 
