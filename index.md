@@ -126,7 +126,7 @@ Recently...
       <h4 class="project-title"><a href="https://www.linkedin.com/posts/mohammadreza-dindarloo_robotics-robots-surgicalrobotics-activity-6851855078890971136-NhLX?utm_source=share&utm_medium=member_desktop"><i class="fa fa-book" aria-hidden="true"></i> A General Real-Time Data Aquisation System </a></h4>
       <img src='/assets/img/projects/DATAAC.png' class='project-img'>
       <p>This work introduces a real-time data acquisition embedded system designed to facilitate unified data transmission between robots, drivers, sensors and MATLAB Simulink. By utilizing the UDP protocol, a connection was established between the RTOS Matlab system and the robot, enabling the implementation of controllers on the robots through Matlab Simulink. This system was implemented on the ARASCam, Kamal-ol-Molk, ARASH:ASiST and DIAMOND [robots](https://drive.google.com/file/d/1JY5BcshSe9pryzDSDaOfVarjOd4MCE90/view). </p> 
-      </div>
+    </div>
   </div>
   <div class="unit half">
       <div class="project">
