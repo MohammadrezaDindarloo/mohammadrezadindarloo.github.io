@@ -24,7 +24,7 @@ From September 2019 to present, I have been a robotic reasercher in [ARAS](https
 
 
 <div class="grid news-about">
-<div class="unit golden-large news">
+<!-- <div class="unit golden-large news"> -->
 <h5> <i></i> A breif on my educations </h5>
 M.SC. in control engineering at [KNTU](https://en.kntu.ac.ir/) from 2021 to 2024
 Thesis: Development of a Graph‐Based Unified Optimization framework for Robot Calibration and State Estimation
@@ -33,7 +33,7 @@ B.SC. in electrical engineering  at [KNTU](https://en.kntu.ac.ir/) from 2017 to 
 Final Project: Design and Implementation of a Comprehensive Data Acquisition System(DAQ) for Real‐Time Applications in ARASH:ASiST Eye
 Surgery Training Robot
 </div>
-</div>
+<!-- </div> -->
 
 
 
