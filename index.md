@@ -84,7 +84,8 @@ Recently...
       <div class="unit half">
         <div class="project">
           <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASFactorSLAC.git"><i class="fab fa-github" aria-hidden="true"></i> ARASFactorSLAC</a></h4>
-          <img src='/assets/img/projects/IROS2024Factorgraph.png' class='project-img'>
+          <img src='/assets/img/projects/IROS2024Factorgraph.png' style='width: auto; max-width: 300px; height: 80%;'>
+          <!-- <img src='/assets/img/projects/IROS2024Factorgraph.png' class='project-img'> -->
           <p> This project contains the implementation of a self-calibration and localization framework for Cable-Driven Parallel Robots (CDPRs) with sagging cables.  This work is currently published in the  <a href="https://iros2024-abudhabi.org/">IROS 2024 Conference </a> as a <a href="https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view"><i class="fa fa-file-text" aria-hidden="true"></i> oral pitch interaction presentation paper</a>.</p>
         </div>
       </div>
