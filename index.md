@@ -36,7 +36,7 @@ subtitle: Fan of Robots & Humans
     <p>
       <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
       <strong>Years:</strong> 2021 - 2024 <br>
-      <strong>Thesis:</strong> Development of a Graph-Based Unified Optimization Framework for Robot Calibration and State Estimation
+      <strong>Thesis:</strong> Development of a Graph-Based Unified Optimization 
     </p>
   </div>
 
