@@ -70,6 +70,7 @@ I am currently...
 Recently...
 * I defended my master's thesis with a perfect grade. [View Abstract](https://www.linkedin.com/feed/update/urn:li:activity:7248017502486573056/)
 * Our paper titled "A Graph-Based Self-Calibration Technique for Cable-Driven Robots with Sagging Cable" has been accepted for an oral pitch itreaction presentation at [IROS 2024](https://iros2024-abudhabi.org/) in Abu Dhabi.
+* A preclinical test of ARASH:ASiST, a dual-core training eye surgery robot, was conducted at [Farabi hospital](https://www.linkedin.com/posts/hamid-taghirad_arashasistiii-eyesurgery-medicalinnovation-activity-7215928811933057024-PIOy?utm_source=share&utm_medium=member_desktop) 
 
 
 
@@ -104,17 +105,17 @@ Recently...
   <div class="grid no-gutters">
     <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/Diamond_Optimization"><i class="fab fa-github" aria-hidden="true"></i> DIAMOND: surgical robot calibration</a></h4>
+        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/Diamond_Optimization"><i class="fab fa-github" aria-hidden="true"></i> DIAMOND: Calibration Method for an Eye Surgery Robot</a></h4>
         <img src='/assets/img/projects/Diamond Calibration.png' class='project-img'>
         <p>DIAMOND is an eye surgery robot that employs a parallel spherical mechanism to create a Remote Center of Motion (RCM), facilitating minimally invasive surgery (MIS). In this project, we propose a relative pose measurement method to calibrate the robot effectively. This work is currently published in the <a href="https://icrom.ir/">ICRoM 2023 Conference </a> as a <a href="https://drive.google.com/file/d/16XSf1F3mS0mPCfROK8nvF5mItJ2i3YPB/view"><i class="fa fa-file-text" aria-hidden="true"></i> oral presentation paper</a>.</p>
       </div>
     </div>
   <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="https://arxiv.org/abs/1708.00171"><i class="fa fa-book" aria-hidden="true"></i>
- PROBE: Predictive Robust Estimation</a></h4>
-         <img src='/assets/img/projects/probe.png' class='project-img'>
-        <p>PROBE, and its follow-up, PROBE-GK (Generalized Kernels) is a heteroscedastic covariance model for image keypoints in visual odometry. Notably, PROBE-GK presents a novel Bayesian formulation for deriving a robust cost function for sparse keypoint reprojection errors.</p>
+        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASH_ASiST_Calibration_FactorGraph"><i class="fab fa-book" aria-hidden="true"></i>
+ ARASH:ASiST Graph-Based Calibration </a></h4>
+         <img src='/assets/img/projects/ARASHASISTCalibration.png' class='project-img'>
+        <p>This project introduces a novel method for surgical robot calibration using a factor graph framework. The GRSAM library was utilized to construct the factors, while SymForce was employed to derive the Jacobians.</p>
       </div>
     </div>
   </div><!-- grid -->
