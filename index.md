@@ -61,7 +61,7 @@ I love reading poetry, philosophy and literature (especially *Weil, Chesterton, 
 <div class="grid">
   <!-- Education Summary -->
   <div class="unit golden-large news">
-    <h5> <i class="fa fa-graduation-cap"></i> Education Summary </h5>
+    <h5> <i class="fa fa-graduation-cap"></i> Education Summaryyyyy </h5>
     <div class="unit golden-large news">
       <h5><i class="fa fa-university"></i> M.Sc. in Control Engineering</h5>
       <p>
