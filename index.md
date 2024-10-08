@@ -75,7 +75,8 @@ I am currently...
 
 Recently...
 * I defended my master's thesis with a perfect grade. [View Abstract](https://www.linkedin.com/feed/update/urn:li:activity:7248017502486573056/)
-* Our paper titled "A Graph-Based Self-Calibration Technique for Cable-Driven Robots with Sagging Cable" has been accepted for an oral pitch itreaction presentation at (IROS 2024) [https://iros2024-abudhabi.org/] in Abu Dhabi.
+* Our paper titled "A Graph-Based Self-Calibration Technique for Cable-Driven Robots with Sagging Cable" has been accepted for an oral pitch itreaction presentation at [IROS 2024] (https://iros2024-abudhabi.org/) in Abu Dhabi.
+
 
 
 
