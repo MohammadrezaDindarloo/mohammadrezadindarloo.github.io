@@ -112,8 +112,8 @@ Recently...
     </div>
   <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASH_ASiST_Calibration_FactorGraph"><i class="fab fa-book" aria-hidden="true"></i>ARASH:ASiST Graph-Based Calibration </a></h4>
-         <img src='/assets/img/projects/ARASHASISTCalibration.png' class='project-img'>
+        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASH_ASiST_Calibration_FactorGraph"><i class="fab fa-github" aria-hidden="true"></i> ARASH:ASiST Graph-Based Calibration </a></h4>
+        <img src='/assets/img/projects/ARASHASISTCalibration.png' style='width: auto; max-width: 300px; height: 80%;'>
         <p>This project introduces a novel method for surgical robot calibration using a factor graph framework. The GRSAM library was utilized to construct the factors, while SymForce was employed to derive the Jacobians.</p>
       </div>
     </div>
