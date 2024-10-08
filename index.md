@@ -23,18 +23,29 @@ From September 2019 to present, I have been a robotic reasercher in [ARAS](https
 </div>
 
 
+
+
 <div class="grid news-about">
-<!-- <div class="unit golden-large news"> -->
-<h5> <i></i> A breif on my educations </h5>
-M.SC. in control engineering at [KNTU](https://en.kntu.ac.ir/) from 2021 to 2024
-Thesis: Development of a Graph‐Based Unified Optimization framework for Robot Calibration and State Estimation
+  <h5> <i class="fa fa-graduation-cap"></i> Education Summary </h5>
+  
+  <div class="unit golden-large news">
+    <h4><i class="fa fa-university"></i> M.Sc. in Control Engineering</h4>
+    <p>
+      <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
+      <strong>Years:</strong> 2021 - 2024 <br>
+      <strong>Thesis:</strong> Development of a Graph-Based Unified Optimization Framework for Robot Calibration and State Estimation
+    </p>
+  </div>
 
-B.SC. in electrical engineering  at [KNTU](https://en.kntu.ac.ir/) from 2017 to 2021
-Final Project: Design and Implementation of a Comprehensive Data Acquisition System(DAQ) for Real‐Time Applications in ARASH:ASiST Eye
-Surgery Training Robot
+  <div class="unit golden-large news">
+    <h4><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h4>
+    <p>
+      <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
+      <strong>Years:</strong> 2017 - 2021 <br>
+      <strong>Final Project:</strong> Design and Implementation of a Comprehensive Data Acquisition System (DAQ) for Real-Time Applications in ARASH:ASiST Eye Surgery Training Robot
+    </p>
+  </div>
 </div>
-<!-- </div> -->
-
 
 
 
