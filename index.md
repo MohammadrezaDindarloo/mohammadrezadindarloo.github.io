@@ -63,7 +63,7 @@ subtitle: Fan of Robots & Humans
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
 I am currently... 
-* Preparing to attend IROS 2024 to present my latest [paper](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view).
+* Preparing to attend IROS 2024 to present my latest <i class="fa fa-file-text" aria-hidden="true"></i> [paper](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view).
 * Conducting a survey of recent advancements in robotics to prepare for my upcoming journey as a PhD student.
 * Developing a Visual Kinematic Fusion module for cable robots, accounting for cable sag.
 
@@ -84,8 +84,8 @@ Recently...
       <div class="unit half">
         <div class="project">
           <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASFactorSLAC.git"><i class="fa fa-github" aria-hidden="true"></i> ARASFactorSLAC</a></h4>
-          <img src='/assets/img/projects/CALIBRATION_GRAPH.pdf' class='project-img'>
-          <p>Using a multi-head structure, we build a deep network that can regress uncertain estimates of rotation using quaternion averaging and noise injection. This work is currently published in the  <a href="https://sites.google.com/view/uncertainty2019">CVPR Workshop on Uncertainty in Visual Learning </a> as a <a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Peretroukhin_Deep_Probabilistic_Regression_of_Elements_of_SO3_using_Quaternion_Averaging_CVPRW_2019_paper.pdf"><i class="fa fa-file-text" aria-hidden="true"></i> workshop paper</a>.</p>
+          <img src='/assets/img/projects/IROS2024Factorgraph.png' class='project-img'>
+          <p> This project contains the implementation of a self-calibration and localization framework for Cable-Driven Parallel Robots (CDPRs) with sagging cables.  This work is currently published in the  <a href="https://iros2024-abudhabi.org/">IROS 2024 Conference </a> as a <a href="https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view"><i class="fa fa-file-text" aria-hidden="true"></i> oral pitch interaction presentation paper</a>.</p>
         </div>
       </div>
 
