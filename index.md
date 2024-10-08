@@ -36,12 +36,10 @@ From September 2019 to present, I have been a robotic reasercher in [ARAS](https
       <strong>Thesis:</strong> Development of a Graph-Based Unified Optimization Framework for Robot Calibration and State Estimation
     </p>
   </div>
-
   <div class="unit golden-small about">
   <h3> <i class="fa fa-id-card"></i> A bit more about me </h3>
   I love reading poetry, philosophy and literature (especially *Weil, Chesterton, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, tennis, and basketball*), hiking & portaging, and all things general aviation (I received my Canadian private pilot's license in 2018).
   </div>
-
   <div class="unit golden-large news">
     <h5><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h5>
     <p>
