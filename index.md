@@ -15,7 +15,6 @@ subtitle: Fan of Robots & Humans
 <div class="lead lead-about">  
   Hello! My name is Mohammadreza Dindarloo, and I have recently completed my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/). My research primarily focuses on optimization problems in robotics, including state estimation, calibration, and sensor fusion.
 
-
 </div>
 
   <p>
@@ -84,8 +83,8 @@ Recently...
   <div class="grid">
       <div class="unit half">
         <div class="project">
-          <h4 class="project-title"><a href="https://github.com/utiasSTARS/so3_learning"><i class="fa fa-github" aria-hidden="true"></i> Rotation Estimation with HydraNet</a></h4>
-          <img src='/assets/img/projects/hydranet.png' class='project-img'>
+          <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASFactorSLAC.git"><i class="fa fa-github" aria-hidden="true"></i> ARASFactorSLAC</a></h4>
+          <img src='/assets/img/projects/CALIBRATION_GRAPH.pdf' class='project-img'>
           <p>Using a multi-head structure, we build a deep network that can regress uncertain estimates of rotation using quaternion averaging and noise injection. This work is currently published in the  <a href="https://sites.google.com/view/uncertainty2019">CVPR Workshop on Uncertainty in Visual Learning </a> as a <a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Peretroukhin_Deep_Probabilistic_Regression_of_Elements_of_SO3_using_Quaternion_Averaging_CVPRW_2019_paper.pdf"><i class="fa fa-file-text" aria-hidden="true"></i> workshop paper</a>.</p>
         </div>
       </div>
@@ -119,7 +118,6 @@ Recently...
     </div>
   </div><!-- grid -->
 
-  
 
 </div>
 {:/}
@@ -166,7 +164,7 @@ Recently...
 ---
 
 <div class="pretty-links">
-
+<!-- 
 ## Things I recommend
 Below you'll find a recent medley of things I really enjoy and love recommending to friends.
 ### Essays
@@ -186,7 +184,7 @@ George Orwell on why Tolstoy wasn't a fan of Shakespeare.
 + [Blood Meridian or the Evening Redness in the West - Cormac McCarthy](https://en.wikipedia.org/wiki/Blood_Meridian)
 + [The Ones Who Walk Away from Omelas - Ursula K. Le Guin](https://www.goodreads.com/book/show/92625.The_Ones_Who_Walk_Away_from_Omelas)
 + [Fallen Leaves: Last Words on Life, Love, War, and God - Will Durant](https://www.goodreads.com/book/show/21412198-fallen-leaves)
-
+ -->
 
 <!-- ### Music & Misc
 <div class="grid">
