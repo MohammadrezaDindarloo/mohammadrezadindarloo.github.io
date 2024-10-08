@@ -16,8 +16,15 @@ Hey! My name is Mohamamdreza, I've recently finished my Master’s degree in Con
 
 </div>
 
-<!-- I am a fan of philosophy, aviation, sport, food, and art. In particular, the work of Arthur Schopenhauer, William Blake, Simone Weil, Leonard Cohen, Cormac McCarthy, Bon Iver, Charlie Kaufman, Wintersleep, and Dylan Thomas.  -->
 From September 2019 to present, I have been a robotic reasercher in [ARAS](https://aras.kntu.ac.ir/) (Applied Robotics and AI Solutions) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/). At ARAS. I enjoed of working on surgical robots and cable robots on developing surgical robot
+
+</div>
+</div>
+</div>
+
+
+<div class="grid news-about">
+<div class="unit golden-large news">
 <h5> <i></i> A breif on my educations </h5>
 M.SC. in control engineering at [KNTU](https://en.kntu.ac.ir/) from 2021 to 2024
 Thesis: Development of a Graph‐Based Unified Optimization framework for Robot Calibration and State Estimation
@@ -25,11 +32,13 @@ Thesis: Development of a Graph‐Based Unified Optimization framework for Robot 
 B.SC. in electrical engineering  at [KNTU](https://en.kntu.ac.ir/) from 2017 to 2021
 Final Project: Design and Implementation of a Comprehensive Data Acquisition System(DAQ) for Real‐Time Applications in ARASH:ASiST Eye
 Surgery Training Robot
+</div>
+</div>
 
 
-</div>
-</div>
-</div>
+
+
+
 
 <div class="grid news-about">
 <div class="unit golden-large news">
