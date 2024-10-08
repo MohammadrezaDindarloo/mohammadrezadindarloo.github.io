@@ -63,7 +63,7 @@ subtitle: Fan of Robots & Humans
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
 I am currently... 
-* Preparing to attend IROS 2024 to present my latest <i class="fa fa-file-text" aria-hidden="true"></i> [paper](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view).
+* Preparing to attend IROS 2024 to present my latest <a href="https://iros2024-abudhabi.org/">IROS 2024 Conference </a> as a <a href="https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view"><i class="fa fa-file-text" aria-hidden="true"></i> paper</a>.
 * Conducting a survey of recent advancements in robotics to prepare for my upcoming journey as a PhD student.
 * Developing a Visual Kinematic Fusion module for cable robots, accounting for cable sag.
 
