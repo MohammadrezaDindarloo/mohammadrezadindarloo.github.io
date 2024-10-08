@@ -57,11 +57,11 @@ From September 2019 to present, I have been a robotic reasercher in [ARAS](https
 I love reading poetry, philosophy and literature (especially *Weil, Chesterton, Schopenhauer, Blake, Thomas, McCarthy, and Tolstoy*), playing sports (especially *soccer, hockey, tennis, and basketball*), hiking & portaging, and all things general aviation (I received my Canadian private pilot's license in 2018).
 </div> -->
 
-<{::nomarkdown}
+
 <div class="grid">
   <!-- Education Summary -->
   <div class="unit golden-large news">
-    <h5> <i class="fa fa-graduation-cap"></i> Education Summaryyyyy </h5>
+    <h5> <i class="fa fa-graduation-cap"></i> Education Summary </h5>
     <div class="unit golden-large news">
       <h5><i class="fa fa-university"></i> M.Sc. in Control Engineering</h5>
       <p>
@@ -88,7 +88,6 @@ I love reading poetry, philosophy and literature (especially *Weil, Chesterton, 
     </p>
   </div>
 </div>
-{:/}
 
 
 
