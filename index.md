@@ -47,25 +47,11 @@ subtitle: Fan of Robots & Humans
     </p>
 
   </div>
-
-
-
-
   <div class="unit golden-small about">
   <h3><i class="fa fa-id-card"></i> A bit more about me </h3>
-  
   <p><strong>Research Interests:</strong> I focus on Sensor Fusion, Multi-Agent Systems, Medical Robotics, and leveraging machine learning to enhance robotic applications.</p>
-  
   <p><strong>Hobbies & Passions:</strong> Beyond my research, I enjoy climbing, playing football, performing classical music, and exploring historical sites to learn about different cultures.</p>
   </div>
-
-
-
-
-
-
-
-
 </div>
 {:/}
 
@@ -84,11 +70,13 @@ subtitle: Fan of Robots & Humans
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
 I am currently... 
-* learning a ton about [cryo-EM](https://www.nobelprize.org/uploads/2018/06/advanced-chemistryprize2017.pdf)!
+* Preparing to attend IROS 2024 to present my latest [paper](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view).
+* Conducting a survey of recent advancements in robotics to prepare for my upcoming journey as a PhD student.
+* Developing a Visual Kinematic Fusion module for cable robots, accounting for cable sag.
 
 
 Recently...
-* advising the organizing committee for the [third annual debates workshop at ICRA 2021](https://www.roboticsdebates.org). 
+* I deffenced my master thesis with the title
 * I was web chair for [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/). 
 * I co-chaired the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop;
 * I co-organized the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop;  
