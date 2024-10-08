@@ -65,7 +65,6 @@ subtitle: Fan of Robots & Humans
 
 
 <div class="grid news-about">
-<div class="unit golden-large news">
 
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
@@ -74,14 +73,10 @@ I am currently...
 * Conducting a survey of recent advancements in robotics to prepare for my upcoming journey as a PhD student.
 * Developing a Visual Kinematic Fusion module for cable robots, accounting for cable sag.
 
-
 Recently...
-* I deffenced my master thesis with the title
-* I was web chair for [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/). 
-* I co-chaired the 2020 [RSS Pioneers](https://sites.google.com/view/rsspioneers2020) workshop;
-* I co-organized the [Power On And Go (POGO)](https://www.power-on-and-go.net/) RSS (2020) workshop;  
-* my RSS work titled *A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty*  was awarded the [<i class="fa fa-trophy" aria-hidden="true"></i> Best Student Paper](https://roboticsconference.org/program/awards/) award, thank you to my incredible co-authors; ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0))
-</div>
+* I defended my master's thesis with a perfect grade. [View Abstract](https://www.linkedin.com/feed/update/urn:li:activity:7248017502486573056/)
+* Our paper titled "A Graph-Based Self-Calibration Technique for Cable-Driven Robots with Sagging Cable" has been accepted for an oral pitch itreaction presentation at (IROS 2024) [https://iros2024-abudhabi.org/] in Abu Dhabi.
+
 
 
 </div>
