@@ -33,17 +33,13 @@ subtitle: Fan of Robots & Humans
 
 <div class="unit golden-small about">
   <h3><i class="fa fa-id-card"></i> A bit more about me </h3>
-  <p> 
-    My interests span several cutting-edge areas in robotics and sensor technology. I am passionate about solving complex engineering challenges through the following fields:
-  </p>
   
-  <ul>
-    <li><strong>Sensor Fusion:</strong> Designing and implementing sensor fusion systems and algorithms for SLAM, localization, and calibration problems.</li>
-    <li><strong>Multi-Agent Perception and Localization:</strong> Focusing on communication, positioning, and fusion tasks, utilizing optimization-based algorithms for enhanced coordination and accuracy.</li>
-    <li><strong>Medical Robotics:</strong> Working on the calibration and control of surgical robots, particularly for minimally invasive surgery, haptics, and teleoperation systems.</li>
-    <li><strong>Machine Learning for Robotics:</strong> Leveraging machine learning methods to develop hybrid statistical learning models that enhance adaptive control in robotic systems.</li>
-  </ul>
+  <p><strong>Research Interests:</strong> I focus on Sensor Fusion, Multi-Agent Systems, Medical Robotics, and leveraging machine learning to enhance robotic applications.</p>
+  
+  <p><strong>Hobbies & Passions:</strong> Outside of research, I enjoy climbing, playing football, and performing classical music.</p>
 </div>
+
+
 
 
   <h5> <i class="fa fa-graduation-cap"></i> Education Summary </h5>
