@@ -36,9 +36,23 @@ subtitle: Fan of Robots & Humans
     <p>
       <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
       <strong>Years:</strong> 2021 - 2024 <br>
-      <strong>Thesis:</strong> Development of a Graph-Based Unified Optimization 
+      <strong>Thesis:</strong> Development of a Graph-Based Unified Optimization Framework for Robot Calibration and State Estimation
     </p>
   </div>
+
+
+
+
+  <div class="unit golden-small about">
+  <h3><i class="fa fa-id-card"></i> A bit more about me </h3>
+  
+  <p><strong>Research Interests:</strong> I focus on Sensor Fusion, Multi-Agent Systems, Medical Robotics, and leveraging machine learning to enhance robotic applications.</p>
+  
+  <p><strong>Hobbies & Passions:</strong> Beyond my research, I enjoy climbing, playing football, performing classical music, and exploring historical sites to learn about different cultures.</p>
+  </div>
+
+
+
 
   <div class="unit golden-large news">
     <h5><i class="fa fa-university"></i> B.Sc. in Electrical Engineering</h5>
@@ -50,13 +64,6 @@ subtitle: Fan of Robots & Humans
   </div>
 
 
-  <div class="unit golden-small about">
-  <h3><i class="fa fa-id-card"></i> A bit more about me </h3>
-  
-  <p><strong>Research Interests:</strong> I focus on Sensor Fusion, Multi-Agent Systems, Medical Robotics, and leveraging machine learning to enhance robotic applications.</p>
-  
-<p><strong>Hobbies & Passions:</strong> Beyond my research, I enjoy climbing, playing football, performing classical music, and exploring historical sites to learn about different cultures.</p>
-</div>
 
 </div>
 {:/}
