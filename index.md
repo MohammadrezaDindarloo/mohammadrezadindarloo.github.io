@@ -70,7 +70,7 @@ I am currently...
 Recently...
 * I defended my master's thesis with a perfect grade. [View Abstract](https://www.linkedin.com/feed/update/urn:li:activity:7248017502486573056/)
 * Our paper titled "A Graph-Based Self-Calibration Technique for Cable-Driven Robots with Sagging Cable" has been accepted for an oral pitch itreaction presentation at [IROS 2024](https://iros2024-abudhabi.org/) in Abu Dhabi.
-* A preclinical test of ARASH:ASiST, a dual-core training eye surgery robot, was conducted at [Farabi hospital](https://www.linkedin.com/posts/hamid-taghirad_arashasistiii-eyesurgery-medicalinnovation-activity-7215928811933057024-PIOy?utm_source=share&utm_medium=member_desktop) 
+* A preclinical test of ARASH:ASiST, a dual-core training eye surgery robot, was conducted at [Farabi hospital](https://www.linkedin.com/posts/hamid-taghirad_arashasistiii-eyesurgery-medicalinnovation-activity-7215928811933057024-PIOy?utm_source=share&utm_medium=member_desktop).
 
 
 
@@ -125,7 +125,7 @@ Recently...
     <div class="project">
       <h4 class="project-title"><a href="https://www.linkedin.com/posts/mohammadreza-dindarloo_robotics-robots-surgicalrobotics-activity-6851855078890971136-NhLX?utm_source=share&utm_medium=member_desktop"><i class="fa fa-book" aria-hidden="true"></i> A General Real-Time Data Aquisation System </a></h4>
       <img src='/assets/img/projects/DATAAC.png' class='project-img'>
-      <p>This work introduces a real-time data acquisition embedded system designed to facilitate unified data transmission between robots, drivers, sensors and MATLAB Simulink. By utilizing the UDP protocol, a connection was established between the RTOS Matlab system and the robot, enabling the implementation of controllers on the robots through Matlab Simulink. This system was implemented on the ARASCam, Kamal-ol-Molk, ARASH:ASiST and DIAMOND robots. [paper](https://drive.google.com/file/d/1JY5BcshSe9pryzDSDaOfVarjOd4MCE90/view). <p> 
+      <p>This work introduces a real-time data acquisition embedded system designed to facilitate unified data transmission between robots, drivers, sensors and MATLAB Simulink. By utilizing the UDP protocol, a connection was established between the RTOS Matlab system and the robot, enabling the implementation of controllers on the robots through Matlab Simulink. This system was implemented on the ARASCam, Kamal-ol-Molk, ARASH:ASiST and DIAMOND robots. [paper](https://drive.google.com/file/d/1JY5BcshSe9pryzDSDaOfVarjOd4MCE90/view).<p> 
       </div>
   </div>
   <div class="unit half">
