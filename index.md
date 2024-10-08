@@ -105,7 +105,7 @@ Recently...
   <div class="grid no-gutters">
     <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/Diamond_Optimization"><i class="fab fa-github" aria-hidden="true"></i> DIAMOND: Calibration Method for an Eye Surgery Robot</a></h4>
+        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/Diamond_Optimization"><i class="fab fa-github" aria-hidden="true"></i> DIAMOND Surgery Robot Calibration </a></h4>
         <img src='/assets/img/projects/Diamond Calibration.png' class='project-img'>
         <p>DIAMOND is an eye surgery robot that employs a parallel spherical mechanism to create a Remote Center of Motion (RCM), facilitating minimally invasive surgery (MIS). In this project, we propose a relative pose measurement method to calibrate the robot effectively. This work is currently published in the <a href="https://icrom.ir/">ICRoM 2023 Conference </a> as a <a href="https://drive.google.com/file/d/16XSf1F3mS0mPCfROK8nvF5mItJ2i3YPB/view"><i class="fa fa-file-text" aria-hidden="true"></i> oral presentation paper</a>.</p>
       </div>
@@ -113,7 +113,7 @@ Recently...
   <div class="unit half">
       <div class="project">
         <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASH_ASiST_Calibration_FactorGraph"><i class="fab fa-book" aria-hidden="true"></i>
- ARASH:ASiST Graph-Based Calibration </a></h4>
+        <p>ARASH:ASiST Graph-Based Calibration </a></h4>
          <img src='/assets/img/projects/ARASHASISTCalibration.png' class='project-img'>
         <p>This project introduces a novel method for surgical robot calibration using a factor graph framework. The GRSAM library was utilized to construct the factors, while SymForce was employed to derive the Jacobians.</p>
       </div>
