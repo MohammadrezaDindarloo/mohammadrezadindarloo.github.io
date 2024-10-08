@@ -13,7 +13,7 @@ subtitle: Fan of Robots & Humans
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">  
-  Hello!!!!!!!!!!!! My name is Mohammadreza Dindarloo, and I have recently completed my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/). My research primarily focuses on optimization problems in robotics, including state estimation, calibration, and sensor fusion.
+  Hello! My name is Mohammadreza Dindarloo, and I have recently completed my Master’s degree in Control Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/). My research primarily focuses on optimization problems in robotics, including state estimation, calibration, and sensor fusion.
 
 
 </div>
