@@ -125,14 +125,14 @@ Recently...
     <div class="project">
       <h4 class="project-title"><a href="https://www.linkedin.com/posts/mohammadreza-dindarloo_robotics-robots-surgicalrobotics-activity-6851855078890971136-NhLX?utm_source=share&utm_medium=member_desktop"><i class="fa fa-book" aria-hidden="true"></i> A General Real-Time Data Aquisation System </a></h4>
       <img src='/assets/img/projects/DATAAC.png' class='project-img'>
-      <p>This work introduces a real-time data acquisition embedded system designed to facilitate unified data transmission between robots, drivers, sensors and MATLAB Simulink. By utilizing the UDP protocol, a connection was established between the RTOS Matlab system and the robot, enabling the implementation of controllers on the robots through Matlab Simulink. This system was implemented on the ARASCam, Kamal-ol-Molk, ARASH:ASiST and DIAMOND [robots](https://drive.google.com/file/d/1JY5BcshSe9pryzDSDaOfVarjOd4MCE90/view). </p> 
+      <p>This work introduces a real-time data acquisition embedded system designed to facilitate unified data transmission between robots, drivers, sensors and MATLAB Simulink. By utilizing the UDP protocol, a connection was established between the RTOS Matlab system and the robot, enabling the implementation of controllers on the robots through Matlab Simulink. This system was implemented on the ARASCam, Kamal-ol-Molk, ARASH:ASiST and DIAMOND robots. </p> 
     </div>
   </div>
   <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/ARASH_ASiST_Calibration_FactorGraph"><i class="fab fa-github" aria-hidden="true"></i> ARASH:ASiST Graph-Based Calibration </a></h4>
-        <img src='/assets/img/projects/ARASHASISTCalibration.png' style='width: 40%  height: 40%;'>
-        <p>This project introduces a novel method for surgical robot calibration using a factor graph framework. The GTSAM library was utilized to construct the factors, while SymForce was employed to derive the Jacobians.</p>
+        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/aras_ir_tracker"><i class="fab fa-github" aria-hidden="true"></i> ARASH:ASiST Graph-Based Calibration </a></h4>
+        <img src='/assets/img/projects/IRTRACKER.png' style='width: 40%  height: 40%;'>
+        <p>ARAS IR-Tracker is a modular infrared motion capture system for robotic and healthcare applications. It is developed and built at Advanced Robotics and Automation Systems lab at the K.N.Toosi University of Technology in Tehran (link). The system is designed to be modular with each module encapsulating isolated functionalities.</p>
       </div>
     </div>
   </div><!-- grid -->
