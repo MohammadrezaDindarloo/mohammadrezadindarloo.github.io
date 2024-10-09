@@ -149,16 +149,18 @@ Recently...
 <div class="grid">
 
 <div class="unit whole news-item">
-<strong> August, 2020 </strong> - I moved to Cambridge! After months of uncertainty I have finally arrived in Massachusetts (which I will hopefully learn how to spell soon). Excited to embark on my postdoctoral journey.  
+<strong> September, 2022 </strong> - The 10th International Conference on Robotics and Mechatronics (ICRoM) was held at <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a>, and I had the pleasure of being on the student committee for the event.
 </div>
 
 <div class="unit whole news-item">
 <div class="unit half news-item">
-![DDS](/assets/img/events/dds.png)
+![DDS](/assets/img/events/icrom2022.jfif)
 </div>
-<div class="unit half news-item">
+<!-- <div class="unit half news-item">
 ![Defence](/assets/img/events/defence.png)
-</div>
+</div> -->
+
+
 <strong> March, 2020 </strong> - I passed the final oral examination of my doctoral degree! Thank you so much to all of my friends, collaborators and committee members. 
 </div>
 
