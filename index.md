@@ -159,7 +159,7 @@ Recently...
   <div class="unit half news-item">
     <img src="/assets/img/events/icromworkshop.jfif" style="width: 70%;">
   </div>
-</div>
+
 
 
 
