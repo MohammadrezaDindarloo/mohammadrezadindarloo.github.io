@@ -30,11 +30,10 @@ Conference: 2024 IEEE/RSJ International Conference on Intelligent Robots and Sys
 
 ### 2023
 <div class="grid">
-<div class="unit half pub_img">
 <div class="unit one-third pub_img">
-  <img src="/assets/img/papers/enc_camIcrom2023.png">
+<img src="/assets/img/papers/enc_camIcrom2023.png">
 </div>
-<div class="unit half">
+<div class="unit two-thirds">
 #### [Kinematic Calibration of a Spherical Parallel Robot](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
 *M. R. Dindarloo, A. S. Mirjalili, R. Khorrambakht, S. A. Khalilpour, P. Cardou and H. D. Taghirad* 
 Conference: 2023 International Conference on Robotics and Mechatronics (ICRoM)
