@@ -148,19 +148,6 @@ Recently...
 
 <div class="grid">
 
-  <div class="unit whole news-item">
-    <strong>September, 2022</strong> - The 10th International Conference on Robotics and Mechatronics (ICRoM) was held at <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a>, and I had the pleasure of being on the student committee for the event.
-  </div>
-  <div class="unit whole news-item">
-  <div class="unit half news-item">
-    <img src="/assets/img/events/icrom2022.jfif" style="width: 100%;">
-  </div>
-  <div class="unit half news-item">
-    <img src="/assets/img/events/icromworkshop.jfif" style="width: 70%;">
-  </div>
-  </div>
-  
-  
 
   <div class="unit whole news-item">
     <strong>September, 2023</strong> - The 11th International Conference on Robotics and Mechatronics (ICRoM) was held at <a href="https://ut.ac.ir/en">University of Tehran</a>, and I had the pleasure of being on the student committee for the event.
@@ -173,6 +160,24 @@ Recently...
     <img src="/assets/img/events/icromworkshop.jfif" style="width: 70%;">
   </div>
   </div>
+
+
+
+  <div class="unit whole news-item">
+    <strong>September, 2022</strong> - The 10th International Conference on Robotics and Mechatronics (ICRoM) was held at <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a>, and I had the pleasure of being on the student committee for the event.
+  </div>
+  <div class="unit whole news-item">
+  <div class="unit half news-item">
+    <img src="/assets/img/events/icrom2023presentation.CR2" style="width: 100%;">
+  </div>
+  <div class="unit half news-item">
+    <img src="/assets/img/events/icrom2023.JPG" style="width: 100%;">
+  </div>
+  </div>
+  
+  
+
+
 
 
 
