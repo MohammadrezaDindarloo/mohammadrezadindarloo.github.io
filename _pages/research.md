@@ -17,7 +17,7 @@ permalink: /research/
 ### 2024
 <div class="grid">
 <div class="unit one-third pub_img">
-<img src="/assets/img/papers/RobotFrameIROS2024.png" style='width: 20%  height: 20%;'>
+<img src="/assets/img/papers/RobotFrameIROS2024.png" style='width: 60%;  height: 60%;'>
 </div>
 <div class="unit two-thirds">
 #### [A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
@@ -31,7 +31,7 @@ Conference: 2024 IEEE/RSJ International Conference on Intelligent Robots and Sys
 ### 2023
 <div class="grid">
 <div class="unit one-third pub_img">
-<img src="/assets/img/papers/enc_camIcrom2023.png" style='width: 20%  height: 20%;'>
+  <img src="/assets/img/papers/enc_camIcrom2023.png" style='width: 60%; height: 60%;'>
 </div>
 <div class="unit two-thirds">
 #### [Kinematic Calibration of a Spherical Parallel Robot](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
