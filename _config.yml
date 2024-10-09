@@ -5,7 +5,7 @@ title: Mohammadreza Dindarloo               # used for the html title of every p
 desc: >
   Personal website of Mohammadreza Dindarloo.
 
-url: http://valentinp.com      # put your website hosting url here
+# url: http://valentinp.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
