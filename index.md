@@ -155,7 +155,9 @@ Recently...
 <div class="unit whole news-item">
 <div class="unit half news-item">
 ![DDS](/assets/img/events/icrom2022.jfif)
+<div class="unit half news-item">
 ![DDS](/assets/img/events/icromworkshop.jfif)
+</div>
 </div>
 <!-- <div class="unit half news-item">
 ![Defence](/assets/img/events/defence.png)
