@@ -144,7 +144,7 @@ Recently...
 
 ---
 ## Events
-
+{::nomarkdown} 
 
 <div class="grid">
 
@@ -179,6 +179,7 @@ Recently...
 
 
 </div>
+{:/}
 
 ---
 
