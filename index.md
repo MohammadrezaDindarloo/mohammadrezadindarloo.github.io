@@ -155,13 +155,10 @@ Recently...
 <div class="unit whole news-item">
 <div class="unit half news-item">
 ![DDS](/assets/img/events/icrom2022.jfif)
+</div>
 <div class="unit half news-item">
 ![DDS](/assets/img/events/icromworkshop.jfif)
 </div>
-</div>
-<!-- <div class="unit half news-item">
-![Defence](/assets/img/events/defence.png)
-</div> -->
 
 <!-- 
 <strong> March, 2020 </strong> - I passed the final oral examination of my doctoral degree! Thank you so much to all of my friends, collaborators and committee members. 
