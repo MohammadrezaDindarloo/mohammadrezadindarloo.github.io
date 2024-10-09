@@ -22,22 +22,23 @@ permalink: /research/
 <div class="unit two-thirds">
 #### [A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
 *M. R. Dindarloo1, A. S. Mirjalili1, S. A. Khalilpour, R. Khorrambakht, Stephan Weiss, and H. D. Taghirad*   
-Conference: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+Conference: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
 [<i class="fa fa-github-square"></i> Code](https://github.com/MohammadrezaDindarloo/ARASFactorSLAC)
 </div>
 </div>
 
+
+### 2023
 <div class="grid">
 <div class="unit half pub_img">
-![](/assets/img/papers/phd_thesis.png)
-</div>
+<div class="unit one-third pub_img">
+<img src="/assets/img/papers/enc_camIcrom2023.png" style="height: 70%;">
+</div></div>
 <div class="unit half">
-#### [ Learned Improvements to the Visual Egomotion Pipeline ](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf)
-*Valentin Peretroukhin*  
-Ph.D. Thesis  
-University of Toronto, 2020  
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Document](/assets/pdf/valentin_peretroukhin_phd_thesis.pdf), 
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Defense Slides](/assets/pdf/2020_peretroukhin_foe_slides.pdf)
+#### [Kinematic Calibration of a Spherical Parallel Robot](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
+*M. R. Dindarloo, A. S. Mirjalili, R. Khorrambakht, S. A. Khalilpour, P. Cardou and H. D. Taghirad* 
+Conference: 2023 International Conference on Robotics and Mechatronics (ICRoM)
+[<i class="fa fa-github-square"></i> Code](https://github.com/MohammadrezaDindarloo/Diamond_Optimization), 
 </div>
 </div>
 
