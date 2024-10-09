@@ -130,7 +130,7 @@ Recently...
   </div>
   <div class="unit half">
       <div class="project">
-        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/aras_ir_tracker"><i class="fab fa-github" aria-hidden="true"></i> ARASH:ASiST Graph-Based Calibration </a></h4>
+        <h4 class="project-title"><a href="https://github.com/MohammadrezaDindarloo/aras_ir_tracker"><i class="fab fa-github" aria-hidden="true"></i> ARAS IR-Tracker </a></h4>
         <img src='/assets/img/projects/IRTRACKER.png' style='width: 40%  height: 40%;'>
         <p>ARAS IR-Tracker is a modular infrared motion capture system for robotic and healthcare applications. It is developed and built at Advanced Robotics and Automation Systems lab at the K.N.Toosi University of Technology in Tehran (link). The system is designed to be modular with each module encapsulating isolated functionalities.</p>
       </div>

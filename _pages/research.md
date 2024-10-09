@@ -8,24 +8,22 @@ permalink: /research/
 <div class="pretty-links">
 
 <div class="lead lead-about">You may find a selection of my publications below. For a more thorough list, please refer to my [<i class="fa fa-flask"></i>
- Google Scholar](https://scholar.google.ca/citations?user=kvnYd8sAAAAJ) or my [<i class="fa fa-file-text" aria-hidden="true"></i> curriculum vitae](/assets/pdf/valentin_peretroukhin_cv.pdf).
+ Google Scholar](https://scholar.google.com/citations?user=MUvoM5QAAAAJ&hl=en).
 </div>
 
 
-## Selected Publications
+<!-- ## Selected Publications -->
 
-### 2020
+### 2024
 <div class="grid">
 <div class="unit one-third pub_img">
-![](/assets/img/papers/bingham_learning.png)
+![](/assets/img/papers/RobotFrameIROS2024.png)
 </div>
 <div class="unit two-thirds">
-#### [A Smooth Representation of SO(3) for Deep Rotation Learning with Uncertainty](https://arxiv.org/abs/2006.01031)
-*Valentin Peretroukhin, Matthew Giamou, David M. Rosen, W. Nicholas Greene, Nicholas Roy, Jonathan Kelly*  
-**<i class="fa fa-trophy" aria-hidden="true"></i> Best Student Paper Award**  
-Robotics: Science and Systems (RSS), 2020  
-[Official RSS Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-github-square"></i> Code](https://github.com/utiasSTARS/bingham-rotation-learning), [<i class="fa fa-newspaper-o"></i> arXiv](https://arxiv.org/abs/2006.01031), [<i class="fa fa-youtube"></i> YouTube](https://www.youtube.com/watch?v=8QMcNmCPYR0)
-
+#### [A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
+*M. R. Dindarloo1, A. S. Mirjalili1, S. A. Khalilpour, R. Khorrambakht, Stephan Weiss, and H. D. Taghirad*   
+Conference: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+[<i class="fa fa-github-square"></i> Code](https://github.com/MohammadrezaDindarloo/ARASFactorSLAC)
 </div>
 </div>
 
@@ -42,6 +40,11 @@ University of Toronto, 2020
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Defense Slides](/assets/pdf/2020_peretroukhin_foe_slides.pdf)
 </div>
 </div>
+
+
+
+
+
 
 ### 2019
 <div class="grid">
