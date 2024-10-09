@@ -16,15 +16,10 @@ permalink: /research/
 
 ### 2024
 <div class="grid">
-<div class="unit one-third pub_img">
-<img src="/assets/img/papers/RobotFrameIROS2024.png">
-</div>
-<div class="unit two-thirds">
 #### [A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
 *M. R. Dindarloo1, A. S. Mirjalili1, S. A. Khalilpour, R. Khorrambakht, Stephan Weiss, and H. D. Taghirad*   
 Conference: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
 [<i class="fa fa-github-square"></i> Code](https://github.com/MohammadrezaDindarloo/ARASFactorSLAC)
-</div>
 </div>
 
 
