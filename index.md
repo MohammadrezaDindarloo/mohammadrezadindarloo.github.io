@@ -157,7 +157,7 @@ Recently...
 ![DDS](/assets/img/events/icrom2022.jfif)
 </div>
 <div class="unit half news-item">
-![DDS](/assets/img/events/icromworkshop.jfif)
+  <img src="/assets/img/events/icromworkshop.jfif" style="width: 80%;">
 </div>
 
 <!-- 
