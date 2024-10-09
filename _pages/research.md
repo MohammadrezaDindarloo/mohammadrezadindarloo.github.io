@@ -17,7 +17,9 @@ permalink: /research/
 ### 2024
 <div class="grid">
 <div class="unit one-third pub_img">
-![](/assets/img/papers/RobotFrameIROS2024.png)
+<div class="unit half news-item">
+    <img src="/assets/img/events/RobotFrameIROS2024.png" style="width: 70%;">
+</div>
 </div>
 <div class="unit two-thirds">
 #### [A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
