@@ -1,21 +1,21 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: Valentin Peretroukhin               # used for the html title of every page
+title: Mohammadreza Dindarloo               # used for the html title of every page
 desc: >
-  Personal website of Valentin Peretroukhin.
+  Personal website of Mohammadreza Dindarloo.
 
 url: http://valentinp.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: valentinp@gmail.com
-author: Valentin Peretroukhin
-twitter_username: valentinp
+email: mohammadrezadindarlou@gmail.com
+author: Mohammadreza Dindarloo
+# twitter_username: valentinp
 github: [metadata]
-github_username: valentinp
-github_source: jackal
+github_username: MohammadrezaDindarloo
+github_source: MohammadrezaDindarloo
 
 # Put your ga tracking code below
 google_analytics: 'UA-XXXXXXXX-X'
