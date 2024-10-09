@@ -37,13 +37,23 @@ Conference: 2024 IEEE/RSJ International Conference on Intelligent Robots and Sys
 #### [Kinematic Calibration of a Spherical Parallel Robot](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
 *M. R. Dindarloo, A. S. Mirjalili, R. Khorrambakht, S. A. Khalilpour, P. Cardou and H. D. Taghirad* 
 Conference: 2023 International Conference on Robotics and Mechatronics (ICRoM)
-[<i class="fa fa-github-square"></i> Code](https://github.com/MohammadrezaDindarloo/Diamond_Optimization), 
+[<i class="fa fa-github-square"></i> Code](https://github.com/MohammadrezaDindarloo/Diamond_Optimization)
 </div>
 </div>
 
 
 
 
+<div class="grid">
+<div class="unit one-third pub_img">
+  <img src="/assets/img/papers/IROS2023.png">
+</div>
+<div class="unit two-thirds">
+#### [Graph-Based Visual-Kinematic Fusion and Monte Carlo Initialization for Fast-Deployable Cable-Driven Robots](https://drive.google.com/file/d/1s224ZDA3B0338LBYELyYCoNspt5YsH7F/view?usp=sharing)
+*R. Khorrambakht, H. Damirchi, M.R. Dindarloo, A. Saki, S.A. Khalilpour, Hamid D. Taghirad, and Stephan Weiss* 
+Conference: 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+</div>
+</div>
 
 
 ### 2019
