@@ -160,7 +160,7 @@ Recently...
 ![Defence](/assets/img/events/defence.png)
 </div> -->
 
-
+<!-- 
 <strong> March, 2020 </strong> - I passed the final oral examination of my doctoral degree! Thank you so much to all of my friends, collaborators and committee members. 
 </div>
 
@@ -175,7 +175,7 @@ Recently...
 ![Final Approach](/assets/img/events/gopro_solo.jpg)
 <strong> August, 2017 </strong> - I've been working on my private pilot license (PPL) this summer at Burlington Executive Airport (CZBA). After two months of training, I finished my first solo flight (which means I was the only person in the aircraft). If you're interested in seeing the whole flight, I <a href="https://www.youtube.com/watch?v=kE3_-Uywr4U">
  recorded the whole thing on my GoPro <i class="fa fa-youtube-play" aria-hidden="true"></i></a>.
-</div>
+</div> -->
 
 
 </div>
