@@ -32,8 +32,8 @@ Conference: 2024 IEEE/RSJ International Conference on Intelligent Robots and Sys
 <div class="grid">
 <div class="unit half pub_img">
 <div class="unit one-third pub_img">
-<img src="/assets/img/papers/enc_camIcrom2023.png">
-</div></div>
+  <img src="/assets/img/papers/enc_camIcrom2023.png" style="width: 300%; height: 300%;">
+</div>
 <div class="unit half">
 #### [Kinematic Calibration of a Spherical Parallel Robot](https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view)
 *M. R. Dindarloo, A. S. Mirjalili, R. Khorrambakht, S. A. Khalilpour, P. Cardou and H. D. Taghirad* 
