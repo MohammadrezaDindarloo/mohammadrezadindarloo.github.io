@@ -153,10 +153,10 @@ Recently...
     </div>
     <div class="unit whole news-item">
     <div class="unit half news-item">
-      <img src="/assets/img/events/IROS2024Poster.jfif" style="width: 100%;">
+      <img src="/assets/img/events/IROS2024Poster.jfif" style="width: 60%;">
     </div>
     <div class="unit half news-item">
-      <img src="/assets/img/events/Scaramuzza.jfif" style="width: 100%;">
+      <img src="/assets/img/events/Scaramuzza.jfif" style="width: 60%;">
     </div>
     </div>
  
