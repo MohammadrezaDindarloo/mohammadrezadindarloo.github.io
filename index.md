@@ -9,7 +9,7 @@ subtitle: Fan of Robots
 <div class="pretty-links">
 <div class="grid">
 <div class="unit golden-small profile-pic">
-<img class='site-profile' src="/assets/img/MohammadrezaDindarloo_mainpage.jfif">
+<img class='site-profile' src="/assets/img/MohammadrezaDindarloo_mainpage.jpg">
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">  
@@ -63,11 +63,11 @@ subtitle: Fan of Robots
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
 I am currently... 
-* Preparing to attend IROS 2024 to present my latest <a href="https://iros2024-abudhabi.org/">IROS 2024 Conference </a> as a <a href="https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view"><i class="fa fa-file-text" aria-hidden="true"></i> paper</a>.
 * Conducting a survey of recent advancements in robotics to prepare for my upcoming journey as a PhD student.
 * Developing a Visual Kinematic Fusion module for cable robots, accounting for cable sag.
 
 Recently...
+* I presented my paper titled "A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable" at <a href="https://iros2024-abudhabi.org/">IROS 2024 Conference.
 * I defended my master's thesis with a perfect grade. [View Abstract](https://www.linkedin.com/feed/update/urn:li:activity:7248017502486573056/)
 * Our paper titled "A Graph-Based Self-Calibration Technique for Cable-Driven Robots with Sagging Cable" has been accepted for an oral pitch itreaction presentation at [IROS 2024](https://iros2024-abudhabi.org/) in Abu Dhabi.
 * A preclinical test of ARASH:ASiST, a dual-core training eye surgery robot, was conducted at [Farabi hospital](https://www.linkedin.com/posts/hamid-taghirad_arashasistiii-eyesurgery-medicalinnovation-activity-7215928811933057024-PIOy?utm_source=share&utm_medium=member_desktop).
