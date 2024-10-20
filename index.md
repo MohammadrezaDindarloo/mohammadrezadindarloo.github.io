@@ -158,9 +158,6 @@ Recently...
     <div class="unit half news-item">
       <img src="/assets/img/events/Scaramuzza.jfif" style='width: 30%  height: 30%;'>
     </div>
-    <div class="unit half news-item">
-      <img src="/assets/img/events/Scaramuzza.jfif" style='width: 30%  height: 30%;'>
-    </div>
     </div>
  
 
