@@ -162,6 +162,20 @@ Recently...
  
 
   <div class="unit whole news-item">
+    <strong>September, 2024</strong> - Clinical tests of the ARASH:ASiST eye surgery training robot were conducted at <a href="https://farabih.tums.ac.ir/%D8%AF%D8%B3%D8%AA%D8%A7%D9%88%D8%B1%D8%AF%D9%87%D8%A7%DB%8C-%D8%B9%D9%84%D9%85%DB%8C/%D8%AA%D8%A7%D9%85%D8%B2-%D8%A8%D8%B3%D8%AA-16:-%D9%86%D8%B3%D8%AE%D9%87-%D8%B3%D9%88%D9%85-%D8%B1%D8%A8%D8%A7%D8%AA-%DA%A9%D9%85%DA%A9-%D8%AC%D8%B1%D8%A7%D8%AD-Arash-Assist--%D9%88-%D8%AA%D8%AD%D9%88%D9%84%DB%8C-%DA%A9%D9%87-%D8%AF%D8%B1-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%86%D8%B4%D9%85-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%85%DB%8C-%DA%A9%D9%86%D8%AF">Farabi Hospital</a>. The robot's mechanical, electrical systems, and ergonomic design were evaluated by surgeons.
+    </div>
+    <div class="unit whole news-item">
+    <div class="unit half news-item">
+      <img src="/assets/img/events/MeAndArashASISTClinical.jpg" style='width: 30%  height: 30%;'>
+    </div>
+    <div class="unit half news-item">
+      <img src="/assets/img/events/clinicalTest.jfif" style='width: 30%  height: 30%;'>
+    </div>
+    </div>
+
+
+
+  <div class="unit whole news-item">
     <strong>September, 2023</strong> - The 11th International Conference on Robotics and Mechatronics (ICRoM) was held at <a href="https://ut.ac.ir/en">University of Tehran</a>, and I had the pleasure of being on the student committee for the event. Additionally, our group conducted a workshop on surgical robots, where I had the honor of being one of the presenters.
     </div>
     <div class="unit whole news-item">
