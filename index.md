@@ -166,10 +166,10 @@ Recently...
     </div>
     <div class="unit whole news-item">
     <div class="unit half news-item">
-      <img src="/assets/img/events/MeAndArashASISTClinical.jpg" style='width: 30%  height: 30%;'>
+      <img src="/assets/img/events/MeAndArashASISTClinical.jpg" style='width: 100%  height: 100%;'>
     </div>
     <div class="unit half news-item">
-      <img src="/assets/img/events/clinicalTest.jfif" style='width: 30%  height: 30%;'>
+      <img src="/assets/img/events/clinicalTest.jfif" style='width: 100%  height: 100%;'>
     </div>
     </div>
 
