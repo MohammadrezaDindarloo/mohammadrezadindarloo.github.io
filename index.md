@@ -62,7 +62,8 @@ subtitle: Robotics Researcher
 
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
-I am currently... 
+I am currently...  
+* I am getting ready to attend the ICRoM 2024 conference for our paper presentation.
 * Conducting a survey of recent advancements in robotics to prepare for my upcoming journey as a PhD student.
 * Developing a Visual Kinematic Fusion module for cable robots, accounting for cable sag.
 
