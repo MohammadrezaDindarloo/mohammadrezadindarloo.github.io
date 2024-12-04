@@ -24,21 +24,18 @@ permalink: /research/
   <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1TuvtcwHCSxAvDnTTmM9FeX9hQu5dwVCU/view?usp=sharing">Arastronaut: An Open Source UWB/IMU Hardware and Software for Indoor Positioning</a></h4>
   <p><em>M. Vakili, A. S. Mirjalili, <strong>M. R. Dindarloo</strong>, Ali. Sharifi, and H. D. Taghirad</em></p>
   <p><strong>Conference:</strong> 2024 International Conference on Robotics and Mechatronics (<strong>ICRoM</strong>)</p>
-  <a href="https://github.com/MohammadrezaDindarloo/ARASFactorSLAC" class="btn"><i class="fa fa-github-square"></i> View Code</a>
 </div>
 
 <div class="grid">
   <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/15i-1vw3_sS-IQhmeUIODmygd54xeC8Cr/view?usp=sharing">Control of Cable Driven Parallel Robots Through Deep Reinforcement Learning</a></h4>
   <p><em>D. A. Nejad, A. Sharifi, <strong>M. R. Dindarloo</strong>, A. S. Mirjalili, S. A. Khalilpour, and H. D. Taghira</em></p>
   <p><strong>Conference:</strong> 2024 International Conference on Robotics and Mechatronics (<strong>ICRoM</strong>)</p>
-  <a href="https://github.com/MohammadrezaDindarloo/ARASFactorSLAC" class="btn"><i class="fa fa-github-square"></i> View Code</a>
 </div>
 
 <div class="grid">
   <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1TzwHUUK90WG05-dxkZrdyu7n2x5QHPfG/view?usp=sharing">Graph‑Based Simultaneous Localization and Calibration for Planar Cable‑Driven Parallel Robots</a></h4>
   <p><em>A. Sharifi, M. Vakili, <strong>M. R. Dindarloo</strong>, A. S. Mirjalili, S. A. Khalilpour, B. Tavassoli, and H. D. Taghirad</em></p>
   <p><strong>Conference:</strong> 2024 International Conference on Robotics and Mechatronics (<strong>ICRoM</strong>)</p>
-  <a href="https://github.com/MohammadrezaDindarloo/ARASFactorSLAC" class="btn"><i class="fa fa-github-square"></i> View Code</a>
 </div>
 
 
