@@ -65,7 +65,6 @@ subtitle: Robotics Researcher
 I am currently...  
 * I am getting ready to attend the ICRoM 2024 conference for our paper presentation.
 * Conducting a survey of recent advancements in robotics to prepare for my upcoming journey as a PhD student.
-* Developing a Visual Kinematic Fusion module for cable robots, accounting for cable sag.
 
 Recently...
 * I presented my paper titled "A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable" at <a href="https://iros2024-abudhabi.org/">IROS 2024 Conference.

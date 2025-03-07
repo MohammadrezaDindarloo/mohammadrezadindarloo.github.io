@@ -12,6 +12,15 @@ permalink: /research/
 </div>
 
 
+### 2025
+<div class="grid">
+  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/12nD9Eoufb5_Er7vH22QoJ__k-fRnreeW/view?usp=sharing">Graph-Based Kinetostatic State Estimation in Cable-Driven Parallel Robots</a></h4>
+  <p><em><strong>M. R. Dindarloo</strong>, A. Hassani, A. Sharifi, S. A. Khalilpour, P. Cardou, and H. D. Taghirad</em></p>
+  <p><strong>Conference:</strong> 2025 7th International Conference on Cable-Driven Parallel Robots (<strong>CableCon</strong>)</p>
+  <a href="https://github.com/MohammadrezaDindarloo/scampi_factor_graph_optimization_base_on_tangent_space" class="btn"><i class="fa fa-github-square"></i> View Code</a>
+</div>
+
+
 ### 2024
 <div class="grid">
   <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view">A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable</a></h4>
