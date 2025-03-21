@@ -63,11 +63,12 @@ subtitle: Robotics Researcher
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
 I am currently...  
-* I am getting ready to attend the ICRoM 2024 conference for our paper presentation.
-* Conducting a survey of recent advancements in robotics to prepare for my upcoming journey as a PhD student.
+* Conducting a survey of recent advancements in robotics to prepare for my upcoming journey as a PhD student ...
+* Writing some finished works ...
 
 Recently...
 * I presented my paper titled "A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable" at <a href="https://iros2024-abudhabi.org/">IROS 2024 Conference.
+I participated and presented our papers at ICRoM 2024 Conference.
 * I defended my master's thesis with a perfect grade. [View Abstract](https://www.linkedin.com/feed/update/urn:li:activity:7248017502486573056/)
 * Our paper titled "A Graph-Based Self-Calibration Technique for Cable-Driven Robots with Sagging Cable" has been accepted for an oral pitch itreaction presentation at [IROS 2024](https://iros2024-abudhabi.org/) in Abu Dhabi.
 * A preclinical test of ARASH:ASiST, a dual-core training eye surgery robot, was conducted at [Farabi hospital](https://www.linkedin.com/posts/hamid-taghirad_arashasistiii-eyesurgery-medicalinnovation-activity-7215928811933057024-PIOy?utm_source=share&utm_medium=member_desktop).
