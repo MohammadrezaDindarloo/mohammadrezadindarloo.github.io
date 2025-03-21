@@ -23,7 +23,7 @@ permalink: /research/
 
 ### 2024
 <div class="grid">
-  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1qRP7lO36Iukx45g4FLJJLihxLKWI_sjP/view">A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable</a></h4>
+  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1f37xtLVynLyYkkZIfmJVC56R4dj8xRlM/view?usp=sharing">A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable</a></h4>
   <p><em><strong>M. R. Dindarloo</strong>, A. S. Mirjalili, S. A. Khalilpour, R. Khorrambakht, Stephan Weiss, and H. D. Taghirad</em></p>
   <p><strong>Conference:</strong> 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS</strong>)</p>
   <a href="https://github.com/MohammadrezaDindarloo/ARASFactorSLAC" class="btn"><i class="fa fa-github-square"></i> View Code</a>
