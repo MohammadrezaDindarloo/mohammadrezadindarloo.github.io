@@ -12,39 +12,12 @@ permalink: /research/
 </div>
 
 
-### 2025
-<div class="grid">
-  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/12nD9Eoufb5_Er7vH22QoJ__k-fRnreeW/view?usp=sharing">Graph-Based Kinetostatic State Estimation in Cable-Driven Parallel Robots</a></h4>
-  <p><em><strong>M. R. Dindarloo</strong>, A. Hassani, A. Sharifi, S. A. Khalilpour, P. Cardou, and H. D. Taghirad</em></p>
-  <p><strong>Conference:</strong> 2025 7th International Conference on Cable-Driven Parallel Robots (<strong>CableCon</strong>)</p>
-  <a href="https://github.com/MohammadrezaDindarloo/scampi_factor_graph_optimization_base_on_tangent_space" class="btn"><i class="fa fa-github-square"></i> View Code</a>
-</div>
-
-
 ### 2024
 <div class="grid">
   <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1f37xtLVynLyYkkZIfmJVC56R4dj8xRlM/view?usp=sharing">A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable</a></h4>
   <p><em><strong>M. R. Dindarloo</strong>, A. S. Mirjalili, S. A. Khalilpour, R. Khorrambakht, Stephan Weiss, and H. D. Taghirad</em></p>
   <p><strong>Conference:</strong> 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS</strong>)</p>
   <a href="https://github.com/MohammadrezaDindarloo/ARASFactorSLAC" class="btn"><i class="fa fa-github-square"></i> View Code</a>
-</div>
-
-<div class="grid">
-  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1TuvtcwHCSxAvDnTTmM9FeX9hQu5dwVCU/view?usp=sharing">Arastronaut: An Open Source UWB/IMU Hardware and Software for Indoor Positioning</a></h4>
-  <p><em>M. Vakili, A. S. Mirjalili, <strong>M. R. Dindarloo</strong>, Ali. Sharifi, and H. D. Taghirad</em></p>
-  <p><strong>Conference:</strong> 2024 International Conference on Robotics and Mechatronics (<strong>ICRoM</strong>)</p>
-</div>
-
-<div class="grid">
-  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/15i-1vw3_sS-IQhmeUIODmygd54xeC8Cr/view?usp=sharing">Control of Cable Driven Parallel Robots Through Deep Reinforcement Learning</a></h4>
-  <p><em>D. A. Nejad, A. Sharifi, <strong>M. R. Dindarloo</strong>, A. S. Mirjalili, S. A. Khalilpour, and H. D. Taghira</em></p>
-  <p><strong>Conference:</strong> 2024 International Conference on Robotics and Mechatronics (<strong>ICRoM</strong>)</p>
-</div>
-
-<div class="grid">
-  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1TzwHUUK90WG05-dxkZrdyu7n2x5QHPfG/view?usp=sharing">Graph‑Based Simultaneous Localization and Calibration for Planar Cable‑Driven Parallel Robots</a></h4>
-  <p><em>A. Sharifi, M. Vakili, <strong>M. R. Dindarloo</strong>, A. S. Mirjalili, S. A. Khalilpour, B. Tavassoli, and H. D. Taghirad</em></p>
-  <p><strong>Conference:</strong> 2024 International Conference on Robotics and Mechatronics (<strong>ICRoM</strong>)</p>
 </div>
 
 
@@ -70,11 +43,6 @@ permalink: /research/
   <p><strong>Conference:</strong> 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS</strong>)</p>
 </div>
 
-<div class="grid">
-  <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1OGSvwoEL3PIsiXbRwRo81MJJo9blStxR/view?usp=sharing">Marker Correspondence Initialization in an IR Motion Capturing System</a></h4>
-  <p><em>M. M. Kalantari, R. Khorrambakht, <strong>M. R. Dindarloo</strong>, S. A. Khalilpour, H. D. Taghirad and P. Cardou</em></p>
-  <p><strong>Conference:</strong> 2022 International Conference on Robotics and Mechatronics (<strong>ICRoM</strong>)</p>
-</div>
 
 <div class="grid">
   <h4><i class="fa fa-file-text-o"></i> <a href="https://drive.google.com/file/d/1iaU_TvAqN6j0nT78NxCWdtq2Zef_qP-n/view?usp=sharing">On The Dynamic Calibration and Trajectory Control of ARASH:ASiST</a></h4>
