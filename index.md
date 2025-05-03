@@ -2,7 +2,7 @@
 layout: page
 title: Mohammadreza Dindarloo
 head_title: Home
-subtitle: Robotics Researcher 
+subtitle: Surgical System 
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
@@ -17,9 +17,6 @@ subtitle: Robotics Researcher
 
 </div>
 
-  <p>
-    Since September 2019, I have been a research associate at the [ARAS (Applied Robotics and AI Solutions)](https://aras.kntu.ac.ir/) laboratory under the supervision of [Prof. Hamid D. Taghirad](https://aras.kntu.ac.ir/taghirad/). My work at ARAS has concentrated on the development of surgical and cable-driven robotic systems, with a particular emphasis on eye surgery training and rehabilitation.
-  </p>
   
 </div>
 </div>
