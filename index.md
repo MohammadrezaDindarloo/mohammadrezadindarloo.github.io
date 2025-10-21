@@ -9,11 +9,11 @@ subtitle: Surgical System Researcher
 <div class="pretty-links">
 <div class="grid">
 <div class="unit golden-small profile-pic">
-<img class='site-profile' src="/assets/img/events/MeAndArashASISTClinical.jpg">
+<img class='site-profile' src="/assets/img/MohammadrezaDindarloo_mainpage.jpg">
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">  
-  Hello! My name is Mohammadreza Dindarloo, and I have recently completed my Master’s degree in Electrical Engineering from [K. N. Toosi University of Technology](https://en.kntu.ac.ir/). My research primarily focuses on surgical systems.
+  Hello! My name is Mohammadreza Dindarloo, and I have recently started my PhD as a member of Dependable and Deployable AI for Robotics [(CDT-D2AIR)](https://www.cdt-d2air.uk/) at the University of [Edinburgh](https://www.ed.ac.uk/). 
 
 </div>
 
@@ -28,6 +28,12 @@ subtitle: Surgical System Researcher
   <h5> <i class="fa fa-graduation-cap"></i> Education Summary </h5>
   
   <div class="unit golden-large news">
+    <h5><i class="fa fa-university"></i> PhD in CDT-D2AIR</h5>
+    <p>
+      <strong>Institution:</strong> <a href="https://www.ed.ac.uk/">University of Edinburgh</a> <br>
+      <strong>Years:</strong> 2025 - Present <br>
+    </p>
+
     <h5><i class="fa fa-university"></i> M.Sc. in Control Engineering</h5>
     <p>
       <strong>Institution:</strong> <a href="https://en.kntu.ac.ir/">K.N. Toosi University of Technology</a> <br>
@@ -57,10 +63,10 @@ subtitle: Surgical System Researcher
 <h3> <i class="fa fa-newspaper-o"></i> Recent news </h3>
 
 I am currently...  
-* Conducting a survey of recent advancements in surgical systems to prepare for my upcoming journey as a PhD student ...
-* Writing some finished works ...
+* Reviewing the literature to define my PhD research direction
 
-Recently...
+Recently... 
+* I started my PhD as a member of [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/)
 * I presented my paper titled "A Graph‑Based Self‑Calibration Technique for Cable‑Driven Robots with Sagging Cable" at <a href="https://iros2024-abudhabi.org/">IROS 2024 Conference.
 * I defended my master's thesis with a prfect grade. [View Abstract](https://www.linkedin.com/feed/update/urn:li:activity:7248017502486573056/)
 * A preclinical test of ARASH:ASiST, a dual-core training eye surgery robot, was conducted at [Farabi hospital](https://www.linkedin.com/posts/hamid-taghirad_arashasistiii-eyesurgery-medicalinnovation-activity-7215928811933057024-PIOy?utm_source=share&utm_medium=member_desktop).
